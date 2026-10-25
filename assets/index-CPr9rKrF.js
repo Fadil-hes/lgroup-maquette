@@ -38,7 +38,7 @@ h2 { font-size: 10pt; font-weight: 700; margin: 0 0 3mm; text-transform: upperca
 .right .row { margin-bottom: 2.4mm; }
 .photo-main { display: block; width: 180mm; height: 92mm; object-fit: cover; }
 .wm { position: relative; width: 180mm; margin: 6mm auto 0; overflow: hidden; }
-.wm-tiles { position: absolute; inset: -60%; background-repeat: repeat; background-size: 48mm auto; background-position: center; transform: rotate(-28deg); opacity: 0.45; filter: drop-shadow(0 0 1px rgba(0,0,0,0.5)); }
+.wm-tiles { position: absolute; inset: -60%; background-repeat: repeat; background-size: 68mm auto; background-position: center; transform: rotate(-28deg); opacity: 0.25; filter: drop-shadow(0 0 1px rgba(0,0,0,0.5)); }
 .big-photo { display: block; width: 178mm; height: 124mm; object-fit: cover; }
 .table { width: 100%; table-layout: fixed; font-size: 9.5pt; border-collapse: collapse; margin-top: 3mm; }
 .table td { padding: 2.2mm 0; vertical-align: top; }
